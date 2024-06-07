@@ -1,1 +1,22 @@
-# Superstore-Data-Warehouse-Analysis-
+![Screenshot 2024-06-07 114954](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/f2d78cd1-f889-4e2c-ac26-4d273d5b7271)![Screenshot 2024-06-07 114814](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/2e9d7545-445b-4b0c-b86f-702500c5d932)# Superstore-Data-Warehouse-Analysis-
+![Screenshot 2024-06-07 114543](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/57fbc11d-9bac-4508-bcba-917eeab1742a)
+![Screenshot 2024-06-07 114618](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/0c3a2b92-8f60-4330-a43e-916b6eb52cde)
+![Screenshot 2024-06-07 114633](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/b6e6c001-144d-4fea-acf9-0ff58e3d667e)
+![Screenshot 2024-06-07 114645](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/9fa68ed7-9350-47cc-8e63-ae906eaa41ff)
+![Screenshot 2024-06-07 114656](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/5dbc780c-f42c-4692-985e-26f2e81a3e66)
+![Screenshot 2024-06-07 114709](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/fab18e29-2d8b-44f3-805c-516e168585b7)
+![Screenshot 2024-06-07 114721](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/b67138eb-0d8c-46dd-bfb6-6cacbee8d9f1)
+![Screenshot 2024-06-07 114734](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/b8bce52b-1546-4a5d-a8e9-0e59d74a332c)![Uploading![Screenshot 2024-06-07 114824](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/88ec6a26-2595-442b-8bce-7e7843944d1d)
+ Screenshot 2024-06-07 114814.png…]()
+
+![Screenshot 2024-06-07 114803](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/90ced481-a5c0-431c-898c-936da180850e)
+![Screenshot 2024-06-07 114838](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/2![Screenshot 2024-06-07 114848](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/3b1226f1-ca8d-4d9a-8cc5-08bfee60ef29)
+144b0fa-99c6-434a-9970-1222689d1124)
+![Screenshot 2024-06-07 114859](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/91f69e72-a3cc-4b44-9291-bc48d2bfb227)
+![Screenshot 2024-06-07 114935](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/77815cb2-1be7-4640-9d30-597a40967f02)![Screenshot 2024-06-07 114944](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/e9f2d01a-4730-4d4e-a006-1ac327f0be24)
+
+![Uploading Screenshot 2024-06-07 114954.png…![Screenshot 2024-06-07 115005](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/97e861e4-77ed-46ba-83ec-7c03d49b013a)
+]()
+![Screenshot 2024-06-![Screenshot 2024-06-07 115030](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/a6c53afc-2c9c-48f5-8856-17bfcc7c8909)
+07 115013](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/a4c852b8-bb44-425c-a15f-7ab52519b074)
+![Screenshot 2024-06-07 115055](https://github.com/siddhi0811/Superstore-Data-Warehouse-Analysis-/assets/143083345/2b113fbb-180e-4704-876c-02e89320a350)
